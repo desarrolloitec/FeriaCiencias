@@ -1,0 +1,6 @@
+{
+  "name": "KineTactix - Plataforma de Entrenamiento Deportivo y Pizarra Táctica",
+  "description": "Sistema integral de entrenamiento deportivo con pizarra táctica interactiva animada en tiempo real, planificación de sesiones, control de carga ACWR, analítica de rendimiento y módulo para Feria de Ciencias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
